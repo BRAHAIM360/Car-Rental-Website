@@ -17,7 +17,11 @@ const sr = ScrollReveal ({
     delay: 400,
     reset: true
 })
-
+console.log("hi there ")
+console.log("hi there ")
+console.log("hi there ")
+console.log("hi there ")
+console.log("hi there ok ")
 sr.reveal('.text',{delay: 200, origin: 'top'})
 sr.reveal('.form-container form',{delay: 800, origin: 'left'})
 sr.reveal('.heading',{delay: 800, origin: 'top'})
